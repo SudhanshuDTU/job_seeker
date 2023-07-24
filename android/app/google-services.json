@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228894852097",
+    "project_id": "rojgarmela-d566a",
+    "storage_bucket": "rojgarmela-d566a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228894852097:android:b08573ba8e0ec617a92c00",
+        "android_client_info": {
+          "package_name": "com.example.rojgarmela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228894852097-ldomk2h2b5ti759r8l4guh0ek5huuosm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHCOXSqeBonp7di8Iceho_bzWEcKvi98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228894852097-ldomk2h2b5ti759r8l4guh0ek5huuosm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
